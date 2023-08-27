@@ -1,0 +1,23 @@
+{
+  "name": "backapi",
+  "version": "1.0.0",
+  "description": "gautam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utk"
+  ],
+  "author": "utkarsh",
+  "license": "ISC",
+  "dependencies": {
+    "alibaba": "^0.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "heroku": "^8.1.7"
+  },
+  "engines": {
+    "node": "18.16.0"
+  }
+}
